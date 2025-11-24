@@ -1,4 +1,4 @@
-# ClinicalRecordsManagerGAS
+# Clinical Records Manager GAS
 
 ClinicalRecordsManagerGAS is a secure web application built with **Google Apps Script (GAS)** and **Google Forms** to manage patient diagnostics, codes, and treatments. It demonstrates best practices in secure web app development, including authentication, flexible data handling, reporting, and privacy-focused database management.
 
